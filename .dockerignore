@@ -1,0 +1,21 @@
+# entorno virtual
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# git
+.git/
+.github/
+
+# ide
+.vscode/
+.idea/
+
+# os
+.DS_Store
+desktop.ini
+
+# documentacion
+README.md

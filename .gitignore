@@ -1,0 +1,21 @@
+# entorno virtual
+.venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# variables de entorno
+.env
+
+# ide
+.vscode/
+.idea/
+
+# docker
+*.tar
+
+# os
+.DS_Store
+desktop.ini
